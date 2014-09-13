@@ -1,8 +1,6 @@
 Black_Jack_Card_Game
-## preparation
+## Description 
 
-* Create github account
+* Black Jack (21) card game
 
 * https://github.com/
-
-* Download Github for Windows client
