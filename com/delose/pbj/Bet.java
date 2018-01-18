@@ -1,4 +1,4 @@
-package BlackJack_v1;
+package com.delose.pbj;
 
 import java.awt.HeadlessException;
 
