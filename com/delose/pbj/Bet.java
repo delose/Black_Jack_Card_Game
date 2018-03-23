@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 public class Bet {
 	
 	private int playerchips = 1000;
-	private int playerbet = 0;
+	private int playerbet = 0; 
 	
 	public int getPlayerchips() {
 		return playerchips;
